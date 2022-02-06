@@ -5,7 +5,6 @@ builder.Services.AddSignalR();
 
 var app = builder.Build();
 
-
 app.UseDeveloperExceptionPage();
 app.UseDefaultFiles();
 app.UseStaticFiles();
@@ -19,4 +18,4 @@ app.UseEndpoints(endpoints =>
 
 //app.MapGet("/", () => "Hello World!");
 
-//app.Run();
+app.Run();
