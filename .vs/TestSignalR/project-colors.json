@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3383e6ee-d9d3-4f9b-a366-c594c53e6e93": {
+      "ProjectGuid": "3383e6ee-d9d3-4f9b-a366-c594c53e6e93",
+      "DisplayName": "TestSignalR",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
