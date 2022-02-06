@@ -19,3 +19,5 @@ C:\Invention\TestSignalR\TestSignalR\obj\Debug\net6.0\TestSignalR.dll
 C:\Invention\TestSignalR\TestSignalR\obj\Debug\net6.0\ref\TestSignalR.dll
 C:\Invention\TestSignalR\TestSignalR\obj\Debug\net6.0\TestSignalR.pdb
 C:\Invention\TestSignalR\TestSignalR\obj\Debug\net6.0\TestSignalR.genruntimeconfig.cache
+C:\Invention\TestSignalR\TestSignalR\bin\Debug\net6.0\TestSignalR.staticwebassets.runtime.json
+C:\Invention\TestSignalR\TestSignalR\bin\Debug\net6.0\package.json

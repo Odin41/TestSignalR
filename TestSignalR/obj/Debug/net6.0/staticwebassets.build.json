@@ -1,11 +1,19 @@
 {
   "Version": 1,
-  "Hash": "inN5budF7mGbOhh5/QSRggMA+TXwanesFzM7KZQuXHE=",
+  "Hash": "uPpwxcS9mJ3+/BrOFGNa4BXdo1Y0QwF9bWTTPiReMBA=",
   "Source": "TestSignalR",
   "BasePath": "_content/TestSignalR",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TestSignalR\\wwwroot",
+      "Source": "TestSignalR",
+      "ContentRoot": "C:\\Invention\\TestSignalR\\TestSignalR\\wwwroot\\",
+      "BasePath": "_content/TestSignalR",
+      "Pattern": "**"
+    }
+  ],
   "Assets": []
 }
